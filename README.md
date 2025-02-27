@@ -3,8 +3,7 @@
 The **Governance Console** (a.k.a. OpenPages) of **IBM Watsonx.governance** provides a **REST API** and a **Java API**. This workshop provides a hands-on overview of these APIs and explains how they can be used to interact with external systems.
 
 For example, an external system may need to create objects like “models” and “use cases” in the Governance Console and prepopulate them with data.
-A workflow in the Governance Console may need to trigger tasks in external systems, for example, creating a support ticket or triggering the deployment of an ML model.
-This lab is the outcome of a project with one of the largest banks in Germany. It explains some of the bank’s requirements and how these requirements can be fulfilled with the APIs available in Watsonx.governance. 
+A workflow in the Governance Console may need to trigger tasks in external systems, for example, creating a support ticket or triggering the deployment of an ML model. 
 
 The lab is divided into two parts:
 * Part 1: An introduction to the REST API which explains how to retrieve, create and update model risk governance (MRG) objects in the Governance Console.
